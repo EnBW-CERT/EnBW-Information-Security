@@ -23,3 +23,4 @@ For other inquiries, please use our general contact form.
 
 ##Links: 
 https://www.enbw.com/privacy-policy/cert-cyber-emergency-response-team.html
+PGP key: https://www.enbw.com/media/geteilte-medien/docs/cert/cert-enbw-com.asc
