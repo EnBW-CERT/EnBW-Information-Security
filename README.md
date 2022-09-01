@@ -3,12 +3,13 @@ Energie Baden-Württemberg is actively committed to addressing cyber security vu
 
 EnBW's Cyber Emergency Response Team (CERT) is our central security expert team and is responsible for the group-wide management of cyber threats, cyber vulnerabilities, and cyber security incidents in the EnBW Group.
 
-Contact the EnBW CERT if you have
+Contact the EnBW CERT (cert@enbw.com) if you are aware of
 
 - a specific cyber threat,
 - a potential cyber security vulnerability, or
 - a cyber security incident
-in our products, services, etc. for our customers or the company or a company subsidiary. All reports will be treated confidentially, and data privacy will be maintained.
+
+affecting EnBW digital landscape or in our products, services, etc. for our customers or the company or a company subsidiary. All reports will be treated confidentially, and data privacy will be maintained.
 
 The CERT is intended solely for reporting the above-mentioned cases. All content that does not specifically relate to this will be ignored.
 
